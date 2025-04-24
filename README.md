@@ -1,7 +1,7 @@
 
-# Nerrothon
+# Nerathon
 
-This repository contains a solution for the **Nerrothon NLP Challenge**, an exciting Natural Language Processing competition designed for AI/ML students to tackle real-world problems such as Named Entity Recognition (NER), text classification, and sentiment analysis on noisy financial service data.
+This repository contains a solution for the **Nerathon NLP Challenge**, an exciting Natural Language Processing competition designed for AI/ML students to tackle real-world problems such as Named Entity Recognition (NER), text classification, and sentiment analysis on noisy financial service data.
 
 ---
 
